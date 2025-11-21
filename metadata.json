@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of RutaSegura Popayán",
+  "description": "Sistema de navegación peatonal seguro para estudiantes en Popayán, utilizando algoritmos de grafos para evitar zonas de riesgo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
